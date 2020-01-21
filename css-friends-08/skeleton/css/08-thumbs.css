@@ -1,0 +1,12 @@
+/* PHASE 8: Thumbs */
+.friends {
+  display: flex;
+  flex-wrap: wrap;
+}
+.friends > li {
+  width: 30%;
+}
+
+.friends li:nth-child() {
+  float: left;
+}

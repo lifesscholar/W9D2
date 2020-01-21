@@ -1,0 +1,19 @@
+/* PHASE 7: Online */
+
+.profile-picture {
+  position: relative;
+  overflow: hidden;
+}
+
+.online {
+  position: absolute;
+  color: white;
+  background-color: rebeccapurple;
+  box-shadow: 1px 1px 1px black;
+  border: black 1px solid;
+  transform: rotate(-45deg);
+  top: 10px;
+  left: -40px;
+  text-transform: uppercase;
+  padding: 5px 60px 5px 45px;
+}
